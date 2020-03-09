@@ -1,0 +1,34 @@
+tr {
+  font-size: 0.5rem !important;
+}
+
+.calendar_default_event_inner {
+  background: #2e78d6;
+  color: #fff;
+  border: none;
+  font-size: 10pt;
+  padding: 5px;
+  opacity: 0.8;
+  width: 40% !important;
+}
+
+.calendar_default_event_inner {
+  width: 100% !important;
+}
+
+.calendar__container {
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 0;
+  margin: 0 0 0 0;
+}
+
+.calendar__container_inner{
+  width:75%
+}
+
+.calendar_default_corner>* {
+  background: #fff !important;
+  background-color: #fff !important;
+  color: #fff !important;
+}
